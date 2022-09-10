@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-
+ *
 *main - print string function
 *Return: returns 0 if there are  no errors, else returns non-zero value
 */
